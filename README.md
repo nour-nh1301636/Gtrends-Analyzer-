@@ -1,0 +1,1 @@
+# Gtrends-Analyzer-
