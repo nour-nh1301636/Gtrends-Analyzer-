@@ -1,0 +1,146 @@
+[
+  {
+    "Date": "20-Oct-18",
+    "City":"Amritsar",
+    "Region":null,
+    "State":"India"
+  },
+  {
+    "Date": "17-Oct-18",
+    "City":"Kerch",
+    "Region":"Crimea",
+    "State": "Russia"
+  },
+  {
+    "Date": "15-Oct-18",
+    "City":"Carcassonne",
+    "Region":"Aude",
+    "State": "France"
+  },
+  {
+    "Date": "14-Oct-18",
+    "City":"Gurugram",
+    "Region":"Arcadia",
+    "State": "India"
+  },
+  {
+    "Date": "10-Oct-18",
+    "City":"Nairobi",
+    "Region":"Kericho",
+    "State": "Kenya"
+  },
+  {
+    "Date": "8-Oct-18",
+    "City":"Midrand",
+    "Region":"Johannesburg",
+    "State": "South Africa"
+  },
+  {
+    "Date": "26-Mar-18",
+    "City":"Kemerovo",
+    "Region":"Siberia",
+    "State": "Russia"
+  },
+  {
+    "Date": "16-Mar-18",
+    "City":"Gudauri",
+    "Region":null,
+    "State": "Georgia"
+  },
+  {
+    "Date": "28-Sep-18",
+    "City":"Palu",
+    "Region":"Sulawesi",
+    "State": "Indonesia"
+  },
+  {
+    "Date": "20-Sep-18",
+    "City":"Lake Victoria",
+    "Region":null,
+    "State": "Tanzania"
+  },
+  {
+    "Date": "21-Sep-18",
+    "City":"Naga",
+    "Region":"Cebu island",
+    "State": "Philippines"
+  },
+  {
+    "Date": "20-Sep-18",
+    "City":"Aberdeen",
+    "Region":"Harford County",
+    "State": "Maryland"
+  },
+  {
+    "Date": "9-Sep-18",
+    "City":"Juba",
+    "Region":null,
+    "State": "South Sudan"
+  },
+  {
+    "Date": "6-Sep-18",
+    "City":"Iburi",
+    "Region":"Hokkaido",
+    "State": "Japan"
+  },
+  {
+    "Date": "24-Jul-16",
+    "City":"Ansbach",
+    "Region":null,
+    "State": "Germany"
+  },
+  {
+    "Date": "4-Sep-18",
+    "City":"Osaka",
+    "Region":"Kansai",
+    "State": "Japan"
+  },
+  {
+    "Date": "4-Sep-18",
+    "City":"Kolkata",
+    "Region":"West Bengal",
+    "State": "India"
+  },
+  {
+    "Date": "18-Mar-18",
+    "City":"Afrin",
+    "Region":null,
+    "State": "Syria"
+  },
+  {
+    "Date": "2-Mar-18",
+    "City":"Austin",
+    "Region":"Texas",
+    "State": "United States"
+  },
+  {
+    "Date": "25-Aug-18",
+    "City":"Mahendranagar",
+    "Region":null,
+    "State": "Nepal"
+  },
+  {
+    "Date": "23-Jan-18",
+    "City":"Benton",
+    "Region":"Kentucky",
+    "State": "U.S"
+  },
+  {
+    "Date": "19-Dec-16",
+    "City":"Berlin",
+    "Region":null,
+    "State": "Germany"
+  },
+  {
+    "Date": "15-Dec-16",
+    "City":"Aleppo",
+    "Region":null,
+    "State": "Syria"
+  },
+  {
+    "Date": "21-Aug-18",
+    "City":"Cariaco",
+    "Region":"Sucre",
+    "State": "Venezuela"
+  }
+]
