@@ -1,0 +1,23 @@
+{
+  "name": "gtrends-analyzer-",
+  "version": "1.0.0",
+  "description": "Welcom to Google Analyzer Application 1st pilot:\r To run the application you need the following:\r 1- Download Node.js JavaScript runtime from : https://nodejs.org/en/ \r 2- Download this projact to your directory\r 3- cd into the directory and type npm install --save  and npm install --save google-trends-api.\r 4- Use npm init to save these settings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nour-nh1301636/Gtrends-Analyzer-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nour-nh1301636/Gtrends-Analyzer-/issues"
+  },
+  "homepage": "https://github.com/nour-nh1301636/Gtrends-Analyzer-#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "google-trends-api": "^4.7.0"
+  }
+}

@@ -17,51 +17,28 @@
       <file leaf-file-name="inputs.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/inputs.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding>
-                <element signature="e#199#298#0" expanded="false" />
-                <element signature="e#302#400#0" expanded="false" />
-                <element signature="e#404#501#0" expanded="false" />
-                <element signature="e#505#613#0" expanded="false" />
-                <element signature="e#617#716#0" expanded="false" />
-                <element signature="e#720#814#0" expanded="false" />
-                <element signature="e#818#917#0" expanded="false" />
-                <element signature="e#921#1022#0" expanded="false" />
-                <element signature="e#1026#1130#0" expanded="false" />
-                <element signature="e#1134#1242#0" expanded="false" />
-                <element signature="e#1246#1340#0" expanded="false" />
-                <element signature="e#1344#1439#0" expanded="false" />
-                <element signature="e#1443#1537#0" expanded="false" />
-                <element signature="e#1541#1634#0" expanded="false" />
-                <element signature="e#1638#1738#0" expanded="false" />
-                <element signature="e#1742#1832#0" expanded="false" />
-                <element signature="e#1836#1937#0" expanded="false" />
-                <element signature="e#1941#2039#0" expanded="false" />
-                <element signature="e#2043#2138#0" expanded="false" />
-                <element signature="e#2142#2235#0" expanded="false" />
-                <element signature="e#2239#2330#0" expanded="false" />
-                <element signature="e#2334#2433#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GtrendsController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="187">
+              <caret line="224" column="9" lean-forward="false" selection-start-line="224" selection-start-column="5" selection-end-line="224" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GtrendsRepository.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GtrendsRepository.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/GtrendsRepository.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="374">
+              <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,18 +47,18 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="-193">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="outputs.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="outputs.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data/outputs.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="0" column="10905" lean-forward="true" selection-start-line="0" selection-start-column="10905" selection-end-line="0" selection-end-column="10905" />
+            <state relative-caret-position="58038">
+              <caret line="0" column="406183" lean-forward="true" selection-start-line="0" selection-start-column="406183" selection-end-line="0" selection-end-column="406183" />
               <folding />
             </state>
           </provider>
@@ -93,16 +70,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="package_json" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>city</find>
-      <find>These results are awesome</find>
-      <find>console</find>
-      <find>File has been created</find>
-      <find>timelineData</find>
       <find>41635200</find>
       <find>1543104000</find>
       <find>aug 31</find>
@@ -123,22 +96,31 @@
       <find>has</find>
       <find>def</find>
       <find>6,51</find>
-      <find>&quot;&quot;</find>
       <find>Sep 1,</find>
-      <find>value1</find>
       <find>[</find>
+      <find>]</find>
+      <find>1543276800</find>
       <find>Aug 31,</find>
+      <find>Oct 1,</find>
+      <find>&quot;&quot;</find>
+      <find>value1</find>
+      <find>date</find>
+      <find>record</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/model/G-trendsRepository.js" />
         <option value="$PROJECT_DIR$/controller/GtrendsController.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/model/GtrendsRepository.js" />
         <option value="$PROJECT_DIR$/Data/inputs.json" />
         <option value="$PROJECT_DIR$/Data/outputs.json" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/model/GtrendsRepository.js" />
       </list>
     </option>
   </component>
@@ -158,11 +140,12 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1376" />
     <option name="height" value="772" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -178,40 +161,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="G-trends" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G-trends" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G-trends" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G-trends" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G-trends" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G-trends" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G-trends" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G-trends" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="google-trends-api" type="462c0819:PsiDirectoryNode" />
+              <item name="Gtrends-Analyzer-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gtrends-Analyzer-" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/MasterOfComputing/Web Development/cmpt661-content/Examples/03.JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cmpt661-content/Examples/03.JavaScript" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -263,26 +230,26 @@
       <workItem from="1543669212396" duration="18714000" />
       <workItem from="1543818960616" duration="5001000" />
       <workItem from="1544337465545" duration="5451000" />
+      <workItem from="1544513000217" duration="3202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92833000" />
+    <option name="totallyTimeSpent" value="96035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1376" height="772" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1376" height="772" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25112107" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25112107" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36463225" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2832551" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -304,14 +271,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/GtrendsRepository.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/outputs.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -324,41 +283,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="75" column="18" lean-forward="false" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -394,41 +323,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
     <entry file="file://$PROJECT_DIR$/model/GtrendsRepository.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -464,30 +363,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -506,14 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -526,42 +395,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/outputs.csv" />
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/outputs.csv" />
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -597,30 +436,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -632,14 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -667,30 +476,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -710,14 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/google-trends-api/lib/google-trends-api.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -768,69 +547,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/inputs.json">
+    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#199#298#0" expanded="false" />
-            <element signature="e#302#400#0" expanded="false" />
-            <element signature="e#404#501#0" expanded="false" />
-            <element signature="e#505#613#0" expanded="false" />
-            <element signature="e#617#716#0" expanded="false" />
-            <element signature="e#720#814#0" expanded="false" />
-            <element signature="e#818#917#0" expanded="false" />
-            <element signature="e#921#1022#0" expanded="false" />
-            <element signature="e#1026#1130#0" expanded="false" />
-            <element signature="e#1134#1242#0" expanded="false" />
-            <element signature="e#1246#1340#0" expanded="false" />
-            <element signature="e#1344#1439#0" expanded="false" />
-            <element signature="e#1443#1537#0" expanded="false" />
-            <element signature="e#1541#1634#0" expanded="false" />
-            <element signature="e#1638#1738#0" expanded="false" />
-            <element signature="e#1742#1832#0" expanded="false" />
-            <element signature="e#1836#1937#0" expanded="false" />
-            <element signature="e#1941#2039#0" expanded="false" />
-            <element signature="e#2043#2138#0" expanded="false" />
-            <element signature="e#2142#2235#0" expanded="false" />
-            <element signature="e#2239#2330#0" expanded="false" />
-            <element signature="e#2334#2433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/GtrendsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/outputs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="0" column="10905" lean-forward="true" selection-start-line="0" selection-start-column="10905" selection-end-line="0" selection-end-column="10905" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="323">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/GtrendsRepository.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="374">
+          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/inputs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="224" column="9" lean-forward="false" selection-start-line="224" selection-start-column="5" selection-end-line="224" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/outputs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58038">
+          <caret line="0" column="406183" lean-forward="true" selection-start-line="0" selection-start-column="406183" selection-end-line="0" selection-end-column="406183" />
           <folding />
         </state>
       </provider>

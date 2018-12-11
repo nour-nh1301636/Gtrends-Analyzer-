@@ -1,146 +1,242 @@
 [
   {
     "Date": "20-Oct-18",
-    "City":"Amritsar",
-    "Region":null,
-    "State":"India"
+    "City": "Amritsar",
+    "Region": null,
+    "State": "India"
   },
   {
     "Date": "17-Oct-18",
-    "City":"Kerch",
-    "Region":"Crimea",
+    "City": "Kerch",
+    "Region": "Crimea",
     "State": "Russia"
   },
   {
     "Date": "15-Oct-18",
-    "City":"Carcassonne",
-    "Region":"Aude",
+    "City": "Carcassonne",
+    "Region": "Aude",
     "State": "France"
   },
   {
     "Date": "14-Oct-18",
-    "City":"Gurugram",
-    "Region":"Arcadia",
+    "City": "Gurugram",
+    "Region": "Arcadia",
     "State": "India"
   },
   {
     "Date": "10-Oct-18",
-    "City":"Nairobi",
-    "Region":"Kericho",
+    "City": "Nairobi",
+    "Region": "Kericho",
     "State": "Kenya"
   },
   {
     "Date": "8-Oct-18",
-    "City":"Midrand",
-    "Region":"Johannesburg",
+    "City": "Midrand",
+    "Region": "Johannesburg",
     "State": "South Africa"
   },
   {
     "Date": "26-Mar-18",
-    "City":"Kemerovo",
-    "Region":"Siberia",
+    "City": "Kemerovo",
+    "Region": "Siberia",
     "State": "Russia"
   },
   {
     "Date": "16-Mar-18",
-    "City":"Gudauri",
-    "Region":null,
+    "City": "Gudauri",
+    "Region": null,
     "State": "Georgia"
   },
   {
     "Date": "28-Sep-18",
-    "City":"Palu",
-    "Region":"Sulawesi",
+    "City": "Palu",
+    "Region": "Sulawesi",
     "State": "Indonesia"
   },
   {
     "Date": "20-Sep-18",
-    "City":"Lake Victoria",
-    "Region":null,
+    "City": "Lake Victoria",
+    "Region": null,
     "State": "Tanzania"
   },
   {
     "Date": "21-Sep-18",
-    "City":"Naga",
-    "Region":"Cebu island",
+    "City": "Naga",
+    "Region": "Cebu island",
     "State": "Philippines"
   },
   {
     "Date": "20-Sep-18",
-    "City":"Aberdeen",
-    "Region":"Harford County",
+    "City": "Aberdeen",
+    "Region": "Harford County",
     "State": "Maryland"
   },
   {
     "Date": "9-Sep-18",
-    "City":"Juba",
-    "Region":null,
+    "City": "Juba",
+    "Region": null,
     "State": "South Sudan"
   },
   {
     "Date": "6-Sep-18",
-    "City":"Iburi",
-    "Region":"Hokkaido",
+    "City": "Iburi",
+    "Region": "Hokkaido",
     "State": "Japan"
   },
   {
     "Date": "24-Jul-16",
-    "City":"Ansbach",
-    "Region":null,
+    "City": "Ansbach",
+    "Region": null,
     "State": "Germany"
   },
   {
     "Date": "4-Sep-18",
-    "City":"Osaka",
-    "Region":"Kansai",
+    "City": "Osaka",
+    "Region": "Kansai",
     "State": "Japan"
   },
   {
     "Date": "4-Sep-18",
-    "City":"Kolkata",
-    "Region":"West Bengal",
+    "City": "Kolkata",
+    "Region": "West Bengal",
     "State": "India"
   },
   {
     "Date": "18-Mar-18",
-    "City":"Afrin",
-    "Region":null,
+    "City": "Afrin",
+    "Region": null,
     "State": "Syria"
   },
   {
     "Date": "2-Mar-18",
-    "City":"Austin",
-    "Region":"Texas",
+    "City": "Austin",
+    "Region": "Texas",
     "State": "United States"
   },
   {
     "Date": "25-Aug-18",
-    "City":"Mahendranagar",
-    "Region":null,
+    "City": "Mahendranagar",
+    "Region": null,
     "State": "Nepal"
   },
   {
     "Date": "23-Jan-18",
-    "City":"Benton",
-    "Region":"Kentucky",
+    "City": "Benton",
+    "Region": "Kentucky",
     "State": "U.S"
   },
   {
     "Date": "19-Dec-16",
-    "City":"Berlin",
-    "Region":null,
+    "City": "Berlin",
+    "Region": null,
     "State": "Germany"
   },
   {
     "Date": "15-Dec-16",
-    "City":"Aleppo",
-    "Region":null,
+    "City": "Aleppo",
+    "Region": null,
     "State": "Syria"
   },
   {
     "Date": "21-Aug-18",
-    "City":"Cariaco",
-    "Region":"Sucre",
+    "City": "Cariaco",
+    "Region": "Sucre",
     "State": "Venezuela"
+  },
+  {
+    "Date": "15-Apr-13",
+    "City": "Boston",
+    "Region": "New England",
+    "State": "Massachusetts"
+  },
+  {
+    "Date": "31-Jul-18",
+    "City":"Lamitan",
+    "Region":"Basilan",
+    "State": "Philippines"
+  },
+  {
+    "Date": "23-Jul-18",
+    "City":"Hebron",
+    "Region":null,
+    "State": "Palestine"
+  },  
+  {
+    "Date": "13-Jul-18",
+    "City":"Yibin",
+    "Region":"Sichuan",
+    "State": "China"
+  },
+  {
+    "Date": "10-Jul-18",
+    "City":"Jalalabad",
+    "Region":"Nangarhar",
+    "State": "Afghanistan"
+  },
+  {
+    "Date": "1-Jul-18",
+    "City":"Dehradun",
+    "Region":"Uttarakhand",
+    "State": "India"
+  },
+  {
+    "Date": "25-Jun-18",
+    "City":"Jos",
+    "Region":"Plateau state",
+    "State": "Nigeria"
+  },
+  {
+    "Date": "3-Jul-16",
+    "City":"Baghdad",
+    "Region":null,
+    "State": "Iraq"
+  },
+  {
+    "Date": "22-Mar-16",
+    "City":"Brussels",
+    "Region":null,
+    "State": "Belgium"
+  },
+  {
+    "Date": "18-Apr-18",
+    "City":"Mahikeng",
+    "Region":"North West",
+    "State": "South Africa"
+  },
+  {
+    "Date": "13-Nov-15",
+    "City":"Beirut",
+    "Region":null,
+    "State": "Lebanon"
+  },
+  {
+    "Date": "24-Nov-17",
+    "City":"Bir al-Abed",
+    "Region":"Sinai",
+    "State": "Egypt"
+  },
+  {
+    "Date": "23-Sep-16",
+    "City":"Burlington",
+    "Region":"Pacific Northwest",
+    "State": "Washington"
+  },
+  {
+    "Date": "18-Feb-18",
+    "City":"Isfahan",
+    "Region":null,
+    "State": "Iran"
+  },
+  {
+    "Date": "7-Apr-18",
+    "City":"Douma",
+    "Region":"Eastern Ghouta",
+    "State": "Syria"
+  },
+  {
+    "Date": "12-Aug-17",
+    "City":"Charlottesville",
+    "Region":null,
+    "State": "Virginia"
   }
 ]
